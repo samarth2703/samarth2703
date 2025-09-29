@@ -1,3 +1,5 @@
+<img src="IMG-20250929-WA0012fs.jpg" style="width:100%; height:auto;">
+
 # Hi, I'm Samarth! 👋
 
 **Ethical Hacker | Prompt Engineer | C / C++ / Python Developer**  
