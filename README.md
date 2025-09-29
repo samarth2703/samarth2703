@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Samarth! 👋
 
-<!--
-**samarth2703/samarth2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ethical Hacker | Prompt Engineer | C / C++ / Python Developer**  
 
-Here are some ideas to get you started:
+I'm passionate about cybersecurity, coding, and building smart solutions using AI and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)]()
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6f42c1?style=for-the-badge&logo=openai&logoColor=white)]()
+
+- **Cybersecurity:** Ethical hacking, vulnerability testing, recon  
+- **Programming:** C · C++ · Python  
+- **AI / Prompting:** Prompt engineering, LLM workflow automation  
+- **Tools:** Scripting, static/dynamic analysis, reverse engineering
+
+---
+
+| ⚔️ Skills          | 🌐 Level        |
+| ------------------ | ---------------  |
+| Hacking            | ████████░░░ 80%  |
+| Python             | ██████░░░░░ 60%  |
+| C / C++            | ████████░░░ 80%  |
+| Prompt Engineering | █████████░░ 90%  |
+ 
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarth2703&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samarth-mishra2703)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shutter_saga2703/)   
+📧 Email: samarthmishra2703@gmail.com
