@@ -21,13 +21,26 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 - **Tools:** Scripting, static/dynamic analysis, reverse engineering
 
 ---
+<table>
+  <tr>
+    <td>
 
-| ⚔️ Skills          | 🌐 Level        |
-| ------------------ | ---------------  |
-| Hacking            | ████████░░░ 80%  |
-| Python             | ██████░░░░░ 60%  |
-| C / C++            | ████████░░░ 80%  |
-| Prompt Engineering | █████████░░ 90%  |
+<!-- Your Table -->
+  
+| ⚔️ Skills              | 🌐 Level |
+|------------------------|----------|
+| Hacking                |  ████████░░░ 80% |
+| Python                 |  ██████░░░░░ 60% |
+| C / C++                |  ████████░░░ 80% |
+| Prompt Engineering     |  █████████░░ 90% |
+
+   </td>
+   <td>
+     <img src="skills.png" alt="Skills" width="400"/>
+   </td>
+  </tr>
+</table>
+
  
 
 ---
@@ -41,3 +54,4 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-mishra2703/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shutter_saga2703/)   
 📧 Email: samarthmishra2703@gmail.com
+
