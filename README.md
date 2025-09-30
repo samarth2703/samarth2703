@@ -8,12 +8,14 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 ---
 
-## 🛠 Skills
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)]()
-[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6f42c1?style=for-the-badge&logo=openai&logoColor=white)]()
+## ⚔️ Skills  
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF1C1C) 
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FF1C1C) 
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF1C1C) 
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=FF1C1C) 
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF1C1C)
+
 
 - **Cybersecurity:** Ethical hacking, vulnerability testing, recon  
 - **Programming:** C · C++ · Python  
@@ -50,8 +52,16 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-mishra2703/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shutter_saga2703/)   
-📧 Email: samarthmishra2703@gmail.com
+## 📬 Connect with Me  
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/samarth-mishra2703/"_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1C1C" height="40">
+  </a>
+  <a href="https://www.instagram.com/shutter_saga2703/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1C1C" height="40">
+  </a>
+  <a href="mailto:samarthmishra2703@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1C1C" height="40">
+  </a>
+</p>
