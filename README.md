@@ -2,7 +2,15 @@
 
 # Hi, I'm Samarth! 👋
 
-**Ethical Hacker | Prompt Engineer | C / C++ / Python Developer**  
+**Ethical Hacker | Prompt Engineer | C / C++ / Python Developer**    
+
+💻 Passionate about **cybersecurity, coding, and AI-powered solutions**.  
+⚡ Skilled in **ethical hacking, vulnerability analysis, and system security**.  
+🤖 Experienced in **prompt engineering** — designing smart AI workflows.  
+🔧 Strong in **low-level programming (C/C++) and automation with Python**.    
+🚀 Always curious, always learning, always building.  
+
+---
 
 I'm passionate about cybersecurity, coding, and building smart solutions using AI and programming.
 
