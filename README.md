@@ -60,6 +60,7 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 ---
 ![GitHub Heatmap](https://ghchart.rshah.org/samarth2703)
+![GitHub heatmap](https://ghchart.rshah.org/00ff00/samarth2703)
 
 ## 📬 Connect with Me  
 
