@@ -51,9 +51,6 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
   </tr>
 </table>
 
- 
-
----
 
 
 ---
