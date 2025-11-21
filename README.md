@@ -55,8 +55,6 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarth2703&show_icons=true&theme=radical)
 
 ---
 
