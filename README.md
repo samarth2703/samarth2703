@@ -23,7 +23,9 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF1C1C) 
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=FF1C1C) 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF1C1C)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,vscode&theme=dark" />
+</p>
 
 - **Cybersecurity:** Ethical hacking, vulnerability testing, recon  
 - **Programming:** C · C++ · Python  
@@ -31,6 +33,8 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 - **Tools:** Scripting, static/dynamic analysis, reverse engineering
 
 ---
+
+
 <table>
   <tr>
     <td>
@@ -70,3 +74,7 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1C1C" height="40">
   </a>
 </p>
+
+
+
+
