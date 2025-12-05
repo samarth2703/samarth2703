@@ -45,7 +45,7 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 |------------------------|----------|
 | Hacking                |  ████████░░░ 80% |
 | Python                 |  ██████░░░░░ 60% |
-| C / C++                |  ████████░░░ 80% |
+| C / C++                |  ████░░░░░░░ 50% |
 | Prompt Engineering     |  █████████░░ 90% |
 
    </td>
