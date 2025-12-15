@@ -59,7 +59,9 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarth2703&show_icons=true&theme=github_dark&hide_border=true)
 
+---
 
 ## 📬 Connect with Me  
 
@@ -77,4 +79,3 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=samarth2703&theme=github-dark&hide_border=true)
