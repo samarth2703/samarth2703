@@ -76,13 +76,5 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 </p>
 
 
-## 📊 GitHub Status
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth2703&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth2703&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=samarth2703&theme=github-dark&hide_border=true)
