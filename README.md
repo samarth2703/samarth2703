@@ -1,10 +1,11 @@
-<img src="IMG.png" style="width:100%; height:auto;">
+
+<img src="IMG.png" width="100%">
 
 # Hi, I'm Samarth! 👋
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
 **Ethical Hacker | Prompt Engineer | C / C++ / Python Developer**
 
@@ -21,10 +22,9 @@
 </td>
 
 <td width="35%" align="center">
-
-<img src="brain.png" width="300"/>
-
+<img src="brain.png" width="300">
 </td>
+
 </tr>
 </table>
 
@@ -36,38 +36,40 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 ## ⚔️ Skills
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF1C1C)
-
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FF1C1C)
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF1C1C)
-
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=FF1C1C)
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF1C1C)
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FF1C1C"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FF1C1C"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF1C1C"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=FF1C1C"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=FF1C1C"/>
 </p>
 
-<table>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,vscode&theme=dark"/>
+</p>
+
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td width="35%" align="center">
-
-<img src="chess.png" width="280"/>
-
+<img src="chess.png" width="280">
 </td>
 
-<td width="65%">
+<td width="65%" valign="middle">
 
-- **Cybersecurity:** Ethical hacking, vulnerability testing, recon
+• **Cybersecurity:** Ethical hacking, vulnerability testing, recon
 
-- **Programming:** C · C++ · Python
+<br><br>
 
-- **AI / Prompting:** Prompt engineering, LLM workflow automation
+• **Programming:** C · C++ · Python
 
-- **Tools:** Scripting, static/dynamic analysis, reverse engineering
+<br><br>
+
+• **AI / Prompting:** Prompt engineering, LLM workflow automation
+
+<br><br>
+
+• **Tools:** Scripting, static/dynamic analysis, reverse engineering
 
 </td>
 
@@ -76,39 +78,35 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 ---
 
-<table>
-
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
 | ⚔️ Skills | 🌐 Level |
-|------------------------|----------|
-| Hacking | ████████░░░ 80% |
-| Python | ██████░░░░░ 60% |
-| C / C++ | ████░░░░░░░ 50% |
-| Prompt Engineering | █████████░░ 90% |
+|------------|----------|
+| Hacking | ████████░░ 80% |
+| Python | ██████░░░░ 60% |
+| C / C++ | █████░░░░░ 50% |
+| Prompt Engineering | █████████░ 90% |
 
 </td>
 
-<td>
-
-<img src="skills.png" alt="Skills" width="400"/>
-
+<td width="50%" align="center">
+<img src="skills.png" width="420">
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 ## 🚀 Projects
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="60%">
+<td width="60%" valign="top">
 
 ### Featured Projects
 
@@ -121,9 +119,7 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 </td>
 
 <td width="40%" align="center">
-
-<img src="win.png" width="320"/>
-
+<img src="win.png" width="320">
 </td>
 
 </tr>
