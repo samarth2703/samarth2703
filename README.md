@@ -142,5 +142,7 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 <a href="mailto:samarthmishra2703@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1C1C" height="40">
 </a>
-
+<a href="https://samarth-portfolio-one.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF1C1C" height="40">
+</a>
 </p>
