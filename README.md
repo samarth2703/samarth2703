@@ -3,21 +3,13 @@
 
 # Hi, I'm Samarth! 👋 
 
+
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/samarth2703/samarth2703/main/dist/pet.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/samarth2703/samarth2703/main/dist/pet-light.svg">
-
-    <img
-      alt="Mochi - My GitHub Pixel Pet"
-      src="https://raw.githubusercontent.com/samarth2703/samarth2703/main/dist/pet.svg"
-      width="100%">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/samarth2703/samarth2703/main/dist/pet.svg"
+    alt="Mochi — my GitHub pixel cat"
+    width="100%"
+  />
 </p>
 
 
