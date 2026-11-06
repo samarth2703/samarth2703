@@ -110,6 +110,16 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 </table>
 
 ---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/samarth2703/samarth2703/main/dist/graph.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/samarth2703/samarth2703/main/dist/graph-light.svg">
+    <img src="https://raw.githubusercontent.com/samarth2703/samarth2703/main/dist/graph.svg"
+      alt="Mochi on my contribution graph" width="100%">
+  </picture>
+</p>
 
 ## 🚀 Projects
 
@@ -137,8 +147,9 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 
 ---
 ## Git Koi 🦈
-<p align="center">
+<p align="left">
   <img src="koi/koi.gif" width="256" alt="My GitHub activity koi fish" />
+  
 </p>
 
 
