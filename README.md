@@ -1,7 +1,15 @@
 
 <img src="IMG.png" width="100%">
 
-# Hi, I'm Samarth! 👋
+# Hi, I'm Samarth! 👋 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/samarth2703/samarth2703/main/dist/pet.svg"
+    alt="Mochi — my GitHub pixel cat"
+    width="100%"
+  />
+</p>
+
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
