@@ -1,13 +1,45 @@
-- name: git-profile-koi
-  # You may pin to the exact commit or the version.
-  # uses: yalongwastaken/git-koi@8a4fb8e69727b905160f27cf11593fb717fa4347
-  uses: yalongwastaken/git-koi@v1.0.1
-  with:
-    # Account whose koi to draw.
-    login: # optional, default is ${{ github.repository_owner }}
-    # Body color, one of white, black, asagi, tea, gold, or platinum.
-    body: # optional, default is white
-    # Folder, relative to the workspace, that receives koi.gif, koi.png, and preview.html.
-    output-dir: # optional, default is koi
-    # Token for reading the account's public data; the built-in token is enough.
-    token: # optional, default is ${{ github.token }}
+
+name: Git Profile Koi
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/koi.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: git-profile-koi
+  cancel-in-progress: false
+
+jobs:
+  generate-koi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Koi
+        uses: yalongwastaken/git-koi@v1.0.1
+        with:
+          login: samarth2703
+          body: white
+          output-dir: koi
+          token: ${{ github.token }}
+
+      - name: Commit generated Koi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add koi/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Git Profile Koi"
+            git push
+          fi
