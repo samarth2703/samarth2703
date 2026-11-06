@@ -126,7 +126,7 @@ I'm passionate about cybersecurity, coding, and building smart solutions using A
 </table>
 
 ---
-
+## Git Koi 🦈
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My GitHub activity koi fish" />
 </p>
